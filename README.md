@@ -6,7 +6,7 @@ This repository contains formal research documentation of a controlled AI reason
 
 ## 🔗 Interactive Research Document
 
-**[SOVRIN-KAIROS: Audit-Grade AI Reasoning - Interactive Forensic View](https://codepen.io/Jason-Fells/live/PwPNxJb/38250055673b4b7a860509a937b5dd1d)**
+**[SOVRIN-KAIROS: Audit-Grade AI Reasoning - Interactive Forensic View](https://codepen.io/Jason-Fells/full/PwPNxJb/38250055673b4b7a860509a937b5dd1d)**
 
 ---
 
