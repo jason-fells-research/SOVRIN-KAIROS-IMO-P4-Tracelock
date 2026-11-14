@@ -22,7 +22,7 @@ Researchers, regulators, legal and compliance teams, enterprise teams and invest
 Fells, J. (2025). SOVRIN-IMO-P4-FINAL-TRACELOCK: Audit-Grade AI Reasoning
 and Trace-Integrity in Forensic Compliance. Ethraeon Systems Advanced AI Research.
 ORCID: https://orcid.org/0009-0008-8254-8411
-Available at: https://github.com/jason-fells-research/sovrin-kairos-audit-grade
+Available at: https://github.com/jason-fells-research/SOVRIN-KAIROS-IMO-P4-Tracelock
 ```
 
 ## Contact
